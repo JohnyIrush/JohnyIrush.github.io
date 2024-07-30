@@ -1,0 +1,307 @@
+[
+        {
+          "id": 1,
+          "title": "E-commerce Platform",
+          "description": "Developed a full-featured e-commerce platform with payment integration.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2023-01-01",
+          "endDate": "2023-06-15",
+          "technologies": ["Vue.js", "Node.js", "MongoDB", "Stripe"],
+          "deliverables": ["Website", "Admin Panel", "API"],
+          "link": "https://example.com/e-commerce"
+        },
+        {
+          "id": 2,
+          "title": "Social Media App",
+          "description": "Built a social media app with real-time chat and notifications.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-06-01",
+          "endDate": "2023-01-20",
+          "technologies": ["React", "Firebase", "Redux", "Material-UI"],
+          "deliverables": ["Mobile App", "Web App", "Backend API"],
+          "link": "https://example.com/social-media"
+        },
+        {
+          "id": 3,
+          "title": "Project Management Tool",
+          "description":
+            "Created a project management tool for teams to collaborate and track progress.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2021-12-01",
+          "endDate": "2022-11-05",
+          "technologies": ["Angular", "Express", "PostgreSQL", "Docker"],
+          "deliverables": ["Web App", "API", "Documentation"],
+          "link": "https://example.com/project-management"
+        },
+        {
+          "id": 4,
+          "title": "Healthcare Portal",
+          "description":
+            "Developed a portal for patients to book appointments and access medical records.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-03-01",
+          "endDate": "2023-08-30",
+          "technologies": ["Vue.js", "Laravel", "MySQL", "Tailwind CSS"],
+          "deliverables": ["Website", "Mobile App", "Admin Panel"],
+          "link": "https://example.com/healthcare-portal"
+        },
+        {
+          "id": 5,
+          "title": "Online Learning Platform",
+          "description": "Built an online learning platform with video courses and quizzes.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2021-09-01",
+          "endDate": "2022-05-10",
+          "technologies": ["React", "Node.js", "MongoDB", "AWS"],
+          "deliverables": ["Web App", "API", "CMS"],
+          "link": "https://example.com/online-learning"
+        },
+        {
+          "id": 6,
+          "title": "Travel Booking System",
+          "description": "Developed a system for booking flights, hotels, and rental cars.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-05-01",
+          "endDate": "2023-03-18",
+          "technologies": ["Vue.js", "Python", "Django", "PostgreSQL"],
+          "deliverables": ["Website", "Admin Dashboard", "API"],
+          "link": "https://example.com/travel-booking"
+        },
+        {
+          "id": 7,
+          "title": "Financial Dashboard",
+          "description": "Created a financial dashboard for tracking expenses and investments.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-07-01",
+          "endDate": "2022-12-22",
+          "technologies": ["Angular", "Node.js", "MySQL", "Chart.js"],
+          "deliverables": ["Web App", "API", "Documentation"],
+          "link": "https://example.com/financial-dashboard"
+        },
+        {
+          "id": 8,
+          "title": "Fitness Tracker",
+          "description": "Developed a fitness tracker app with workout plans and progress tracking.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-11-01",
+          "endDate": "2023-07-14",
+          "technologies": ["React Native", "Firebase", "Redux"],
+          "deliverables": ["Mobile App", "Backend API", "Admin Panel"],
+          "link": "https://example.com/fitness-tracker"
+        },
+        {
+          "id": 9,
+          "title": "Event Management System",
+          "description":
+            "Built a system for managing events, ticket sales, and attendee registrations.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-01-01",
+          "endDate": "2022-10-01",
+          "technologies": ["Vue.js", "Laravel", "MySQL", "Bootstrap"],
+          "deliverables": ["Website", "Admin Dashboard", "API"],
+          "link": "https://example.com/event-management"
+        },
+        {
+          "id": 10,
+          "title": "Real Estate Marketplace",
+          "description": "Developed a marketplace for buying, selling, and renting properties.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-10-01",
+          "endDate": "2023-04-25",
+          "technologies": ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+          "deliverables": ["Web App", "API", "Admin Panel"],
+          "link": "https://example.com/real-estate"
+        },
+        {
+          "id": 11,
+          "title": "Restaurant Ordering System",
+          "description": "Created a system for ordering food online with delivery tracking.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-11-01",
+          "endDate": "2023-06-01",
+          "technologies": ["Vue.js", "Django", "PostgreSQL", "Bootstrap"],
+          "deliverables": ["Website", "Mobile App", "API"],
+          "link": "https://example.com/restaurant-ordering"
+        },
+        {
+          "id": 12,
+          "title": "Job Portal",
+          "description": "Built a job portal for job seekers and employers to connect.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-08-01",
+          "endDate": "2023-02-12",
+          "technologies": ["Angular", "Express", "MongoDB", "Bootstrap"],
+          "deliverables": ["Website", "API", "Admin Panel"],
+          "link": "https://example.com/job-portal"
+        },
+        {
+          "id": 13,
+          "title": "Inventory Management System",
+          "description": "Developed a system for managing inventory and tracking stock levels.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-01-01",
+          "endDate": "2022-09-05",
+          "technologies": ["React", "Node.js", "MySQL", "Material-UI"],
+          "deliverables": ["Web App", "API", "Documentation"],
+          "link": "https://example.com/inventory-management"
+        },
+        {
+          "id": 14,
+          "title": "CRM Software",
+          "description": "Created CRM software for managing customer relationships and sales.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-11-01",
+          "endDate": "2023-05-20",
+          "technologies": ["Vue.js", "Laravel", "MySQL", "Bootstrap"],
+          "deliverables": ["Web App", "API", "Admin Panel"],
+          "link": "https://example.com/crm-software"
+        },
+        {
+          "id": 15,
+          "title": "News Aggregator",
+          "description":
+            "Built a news aggregator that collects and displays news from various sources.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-08-01",
+          "endDate": "2023-01-30",
+          "technologies": ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+          "deliverables": ["Website", "API", "Admin Dashboard"],
+          "link": "https://example.com/news-aggregator"
+        },
+        {
+          "id": 16,
+          "title": "E-learning App",
+          "description": "Developed an e-learning app with interactive courses and quizzes.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-09-01",
+          "endDate": "2023-03-10",
+          "technologies": ["React Native", "Firebase", "Redux"],
+          "deliverables": ["Mobile App", "Backend API", "Admin Panel"],
+          "link": "https://example.com/e-learning"
+        },
+        {
+          "id": 17,
+          "title": "Online Marketplace",
+          "description": "Created an online marketplace for buying and selling products.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2021-12-01",
+          "endDate": "2022-11-25",
+          "technologies": ["Vue.js", "Node.js", "MySQL", "Bootstrap"],
+          "deliverables": ["Web App", "API", "Admin Dashboard"],
+          "link": "https://example.com/online-marketplace"
+        },
+        {
+          "id": 18,
+          "title": "Task Management App",
+          "description": "Built a task management app for organizing and tracking tasks.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2022-02-01",
+          "endDate": "2023-07-05",
+          "technologies": ["React", "Node.js", "MongoDB", "Material-UI"],
+          "deliverables": ["Web App", "API", "Documentation"],
+          "link": "https://example.com/task-management"
+        },
+        {
+          "id": 19,
+          "title": "Weather Forecast App",
+          "description": "Developed a weather forecast app with real-time weather data.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2023-01-01",
+          "endDate": "2023-02-28",
+          "technologies": ["Vue.js", "Express", "MongoDB", "Tailwind CSS"],
+          "deliverables": ["Mobile App", "API", "Admin Panel"],
+          "link": "https://example.com/weather-forecast"
+        },
+        {
+          "id": 20,
+          "title": "Online Voting System",
+          "description":
+            "Created an online voting system with secure authentication and real-time results.",
+          "gallery": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150/0000FF",
+            "https://via.placeholder.com/150/FF0000"
+          ],
+          "startDate": "2023-01-01",
+          "endDate": "2023-06-10",
+          "technologies": ["React", "Node.js", "MySQL", "Bootstrap"],
+          "deliverables": ["Web App", "API", "Admin Dashboard"],
+          "link": "https://example.com/online-voting"
+        }
+      ]
