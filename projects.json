@@ -78,5 +78,78 @@
     "startDate": "2024-07-01",
     "endDate": "2024-07-11",
     "link": "https://vagabondmoto.com.au"
+  },
+  {
+    "id": 4,
+    "gallery": [
+      "/assets/img/cropped.jpeg",
+      "/assets/img/Screenshot from 2024-07-31 10-00-27.png",
+      "/assets/img/Screenshot from 2024-07-31 09-58-54.png",
+      "/assets/img/Screenshot from 2024-07-31 09-58-08.png",
+      "/assets/img/WhatsApp Image 2024-07-05 at 11.31.43 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-07-08 at 1.38.04 PM.jpeg",
+      "/assets/img/3ebcc87b-665c-49ea-989f-2dcc6c25945a.jpeg",
+      "/assets/img/9b079e64-8cf1-4152-be88-ec0cf7e06429.jpeg"
+    ],
+    "title": "WordPress User Authentication Plugin Development with PayPal Payment and Subscription Integration",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Developed a comprehensive WordPress plugin to manage user authentication, PayPal payments, and subscription integrations. The plugin was designed to display user-specific data upon login, enable admin data management via the WordPress dashboard, and provide secure access to personal fitness scores and training programs.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Collaborated with the client to gather and understand requirements for user-specific data display and secure access.</li>\n    <li>Developed custom user authentication features to display specific data upon login.</li>\n    <li>Implemented an admin interface for managing user data, including fitness scores, via the WordPress dashboard.</li>\n    <li>Integrated PayPal payment processing to facilitate the purchase of online fitness training programs.</li>\n    <li>Created user profile pages with tabs for personal information, medical information, and subscriptions.</li>\n    <li>Ensured data privacy and security, particularly for sensitive medical information.</li>\n    <li>Provided functionality for users to edit their profile information and for admins to update medical information.</li>\n    <li>Implemented a feature allowing bulk upload of user fitness scores through Excel.</li>\n    <li>Added a PDF management feature, allowing admins to upload and manage PDFs for each user.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, PHP, WooCommerce, PayPal API</li>\n    <li><strong>Key Features:</strong> User-specific data display, PayPal payment integration, admin data management, secure user authentication, profile and subscription management, PDF management for users</li>\n  </ul>\n</div>",
+    "technologies": [
+      "PHP",
+      "Apache",
+      "Wordpress",
+      "MySQL",
+      "CSS",
+      "HTML",
+      "Woo commerce",
+      "PayPal"
+    ],
+    "deliverables": [
+      "Website",
+      "API",
+      "CMS",
+      "Plugin",
+      "Plugin Development",
+      "Wordpress Plugin Development",
+      "API Integration",
+      "E-commerce",
+      "Full Stack Develompent"
+    ],
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-30",
+    "link": "https://performancewip.com"
+  },
+  {
+    "id": 5,
+    "title": "Custom WordPress Map Plugin Development with Leaflet and OpenStreetMap Integration",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Developed a custom WordPress plugin to create map features similar to those on a non-WordPress website. The plugin utilized Leaflet Library and OpenStreetMap API, along with Vue.js, to provide a cost-effective solution while meeting client requirements for displaying dispensary locations.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Analyzed the client’s requirements to replicate map features from a non-WordPress website using open-source tools.</li>\n    <li>Developed a custom WordPress plugin using Leaflet Library and OpenStreetMap API for map integration.</li>\n    <li>Incorporated Vue.js to enhance the plugin’s functionality and user experience.</li>\n    <li>Designed and implemented algorithms for dispensary search with various locations and geocoding capabilities.</li>\n    <li>Loaded 306 dispensary locations dynamically using Vue.js and JavaScript, avoiding the need to create individual pages.</li>\n    <li>Designed and styled the user interface with CSS and HTML to ensure a seamless and aesthetically pleasing user experience.</li>\n    <li>Ensured the plugin provided a seamless user experience, similar to the reference site using Google Maps API, but at a lower cost.</li>\n    <li>Integrated geocoding and search functionalities to enhance user experience and accessibility.</li>\n    <li>Utilized ingenuity to overcome challenges related to the differences between WordPress and the powerful framework used by the reference site.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, Leaflet Library, OpenStreetMap API, Vue.js, CSS, HTML</li>\n    <li><strong>Key Features:</strong> Custom map integration, dispensary search algorithms, geocoding, Vue.js enhancement, dynamic loading of locations, user interface design and styling, cost-effective solution</li>\n  </ul>\n</div>\n",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-20",
+    "technologies": [
+      "PHP",
+      "Vue.js",
+      "Wordpress",
+      "Apache",
+      "HTML",
+      "CSS",
+      "Leaflet Library",
+      "OpenStreet Map API"
+    ],
+    "deliverables": [
+      "Full Stack Develompent",
+      "Website",
+      "Wordpress Plugin Development",
+      "Plugin Development",
+      "API Integration",
+      "Plugin",
+      "CMS",
+      "API"
+    ],
+    "gallery": [
+      "/assets/img/Screenshot from 2024-07-31 11-40-46.png",
+      "/assets/img/Screenshot from 2024-07-31 11-41-16.png",
+      "/assets/img/Screenshot from 2024-07-31 11-41-40.png",
+      "/assets/img/WhatsApp Image 2024-05-04 at 12.02.00 PM.jpeg"
+    ],
+    "link": "https://theluxeharmony.com"
   }
 ]
