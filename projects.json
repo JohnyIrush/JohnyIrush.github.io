@@ -24,7 +24,8 @@
     ],
     "startDate": "2024-07-10",
     "endDate": "2024-07-30",
-    "link": "https://blengi.com"
+    "link": "https://blengi.com",
+    "isUp": true
   },
   {
     "id": 2,
@@ -49,7 +50,8 @@
     ],
     "startDate": "2024-07-01",
     "endDate": "2024-07-06",
-    "link": "https://xpfrance.net"
+    "link": "https://xpfrance.net",
+    "isUp": true
   },
   {
     "id": 3,
@@ -77,7 +79,8 @@
     ],
     "startDate": "2024-07-01",
     "endDate": "2024-07-11",
-    "link": "https://vagabondmoto.com.au"
+    "link": "https://vagabondmoto.com.au",
+    "isUp": true
   },
   {
     "id": 4,
@@ -116,7 +119,8 @@
     ],
     "startDate": "2024-06-11",
     "endDate": "2024-06-30",
-    "link": "https://performancewip.com"
+    "link": "https://performancewip.com",
+    "isUp": true
   },
   {
     "id": 5,
@@ -150,6 +154,181 @@
       "/assets/img/Screenshot from 2024-07-31 11-41-40.png",
       "/assets/img/WhatsApp Image 2024-05-04 at 12.02.00 PM.jpeg"
     ],
-    "link": "https://theluxeharmony.com"
+    "link": "https://theluxeharmony.com",
+    "isUp": true
+  },
+  {
+    "id": 6,
+    "gallery": [
+      "/assets/img/Screenshot from 2024-08-01 09-27-55.png",
+      "/assets/img/Screenshot from 2024-08-01 09-28-17.png",
+      "/assets/img/Screenshot from 2024-08-01 09-28-37.png",
+      "/assets/img/Screenshot from 2024-08-01 09-28-58.png"
+    ],
+    "title": "Laravel + Vuejs Development of Escort Models Membership Platform",
+    "description": "<div class=\"container mt-5\">\n <p><strong>Description:</strong></p>\n  <p>Developed a comprehensive membership platform for escort models using Vue.js and Laravel. The platform allows administrators to add images and details for each model, enabling interested clients to view profiles and contact the models directly.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Designed and implemented the membership platform using Vue.js for the front end and Laravel for the back end.</li>\n    <li>Created an intuitive admin panel for adding and managing models' profiles, including images and detailed descriptions.</li>\n    <li>Developed user-friendly interfaces for clients to browse and search for models based on various criteria.</li>\n    <li>Implemented secure contact mechanisms for clients to reach out to models.</li>\n    <li>Ensured the platform is responsive and provides a seamless user experience across devices.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> Vue.js, Laravel</li>\n    <li><strong>Key Features:</strong> Admin panel for model management, profile viewing, client-model contact functionality, responsive design</li>\n  </ul>\n</div>\n",
+    "technologies": [
+      "PHP",
+      "Apache",
+      "Vue.js",
+      "Composer",
+      "Node.js",
+      "Laravel",
+      "MySQL",
+      "Bootstrap",
+      "HTML",
+      "CSS"
+    ],
+    "deliverables": [
+      "Full Stack Develompent",
+      "Server Security",
+      "Website",
+      "API",
+      "CMS",
+      "Single Page Application",
+      "Progressive Web App"
+    ],
+    "startDate": "2024-06-01",
+    "endDate": "2024-08-17",
+    "link": "http://localhost:5173/"
+  },
+  {
+    "id": 8,
+    "gallery": [
+      "/assets/img/Screenshot from 2024-08-01 11-35-27.png",
+      "/assets/img/Screenshot from 2024-08-01 11-35-03.png"
+    ],
+    "title": "Hacked WordPress Site Restoration, Penetration Testing and Security Enhancement",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Restored and secured a client's website after it was attacked and severely compromised by hackers. Conducted comprehensive debugging and troubleshooting, followed by penetration testing using advanced tools to ensure robust security.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Restored the website from backups and reconstructed lost data.</li>\n    <li>Debugged and troubleshooted issues caused by the hacking incident.</li>\n    <li>Performed extensive penetration testing to identify and fix security vulnerabilities.</li>\n    <li>Utilized tools such as Burp Suite, SQLMap, Kali Linux, WPScan, and OWASP ZAP for thorough security analysis.</li>\n    <li>Implemented security enhancements to prevent future attacks and ensure the website's integrity.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, Burp Suite, SQLMap, Kali Linux, WPScan, OWASP ZAP</li>\n    <li><strong>Key Features:</strong> Website restoration, debugging and troubleshooting, penetration testing, security enhancements</li>\n  </ul>\n</div>\n",
+    "technologies": [
+      "PHP",
+      "Apache",
+      "Wordpress",
+      "OWASP ZAP",
+      "WPScan",
+      "Kali Linux",
+      "sql-map",
+      "Burp-suite",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL"
+    ],
+    "deliverables": [
+      "Server Administration",
+      "Full Stack Develompent",
+      "Web Server Configuration and Optimization",
+      "API",
+      "CMS",
+      "Website"
+    ],
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-14",
+    "link": "https://plurfilm.com/",
+    "isUp": true
+  },
+  {
+    "id": 9,
+    "gallery": [
+      "/assets/img/Screenshot from 2024-08-01 11-45-44.png ",
+      "/assets/img/Screenshot from 2024-08-01 11-46-00.png"
+    ],
+    "title": "Hacked WordPress Site Restoration, Penetration Testing and Security Enhancement",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Restored and secured a client's website after it was attacked and severely compromised by hackers. Conducted comprehensive debugging and troubleshooting, followed by penetration testing using advanced tools to ensure robust security.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Restored the website from backups and reconstructed lost data.</li>\n    <li>Debugged and troubleshooted issues caused by the hacking incident.</li>\n    <li>Performed extensive penetration testing to identify and fix security vulnerabilities.</li>\n    <li>Utilized tools such as Burp Suite, SQLMap, Kali Linux, WPScan, and OWASP ZAP for thorough security analysis.</li>\n    <li>Implemented security enhancements to prevent future attacks and ensure the website's integrity.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, Burp Suite, SQLMap, Kali Linux, WPScan, OWASP ZAP</li>\n    <li><strong>Key Features:</strong> Website restoration, debugging and troubleshooting, penetration testing, security enhancements</li>\n  </ul>\n</div>\n",
+    "technologies": [
+      "PHP",
+      "Apache",
+      "Wordpress",
+      "OWASP ZAP",
+      "WPScan",
+      "Kali Linux",
+      "sql-map",
+      "Burp-suite",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL"
+    ],
+    "deliverables": [
+      "Server Administration",
+      "Full Stack Develompent",
+      "Web Server Configuration and Optimization",
+      "API",
+      "CMS",
+      "Website"
+    ],
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-14",
+    "link": "https://kemptonsministry.com/",
+    "isUp": true
+  },
+  {
+    "id": 10,
+    "gallery": [
+      "/assets/img/Est autem eu laudan"
+    ],
+    "title": "Hacked WordPress Site Restoration, Penetration Testing and Security Enhancement",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Restored and secured a client's website after it was attacked and severely compromised by hackers. Conducted comprehensive debugging and troubleshooting, followed by penetration testing using advanced tools to ensure robust security.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Restored the website from backups and reconstructed lost data.</li>\n    <li>Debugged and troubleshooted issues caused by the hacking incident.</li>\n    <li>Performed extensive penetration testing to identify and fix security vulnerabilities.</li>\n    <li>Utilized tools such as Burp Suite, SQLMap, Kali Linux, WPScan, and OWASP ZAP for thorough security analysis.</li>\n    <li>Implemented security enhancements to prevent future attacks and ensure the website's integrity.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, Burp Suite, SQLMap, Kali Linux, WPScan, OWASP ZAP</li>\n    <li><strong>Key Features:</strong> Website restoration, debugging and troubleshooting, penetration testing, security enhancements</li>\n  </ul>\n</div>\n",
+    "technologies": [
+      "PHP",
+      "Apache",
+      "Wordpress",
+      "OWASP ZAP",
+      "WPScan",
+      "Kali Linux",
+      "sql-map",
+      "Burp-suite",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL"
+    ],
+    "deliverables": [
+      "Server Administration",
+      "Full Stack Develompent",
+      "Web Server Configuration and Optimization",
+      "API",
+      "CMS",
+      "Website"
+    ],
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-14",
+    "link": "http://joeysshowillgoon.com/",
+    "isUp": true
+  },
+  {
+    "id": 7,
+    "gallery": [
+      "/assets/img/Screenshot from 2024-08-01 11-51-05.png",
+      "/assets/img/Screenshot from 2024-08-01 11-50-38.png"
+    ],
+    "title": "Hacked WordPress Site Restoration, Penetration Testing and Security Enhancement",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Restored and secured a client's website after it was attacked and severely compromised by hackers. Conducted comprehensive debugging and troubleshooting, followed by penetration testing using advanced tools to ensure robust security.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Restored the website from backups and reconstructed lost data.</li>\n    <li>Debugged and troubleshooted issues caused by the hacking incident.</li>\n    <li>Performed extensive penetration testing to identify and fix security vulnerabilities.</li>\n    <li>Utilized tools such as Burp Suite, SQLMap, Kali Linux, WPScan, and OWASP ZAP for thorough security analysis.</li>\n    <li>Implemented security enhancements to prevent future attacks and ensure the website's integrity.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, Burp Suite, SQLMap, Kali Linux, WPScan, OWASP ZAP</li>\n    <li><strong>Key Features:</strong> Website restoration, debugging and troubleshooting, penetration testing, security enhancements</li>\n  </ul>\n</div>\n",
+    "technologies": [
+      "PHP",
+      "Apache",
+      "Wordpress",
+      "OWASP ZAP",
+      "WPScan",
+      "Kali Linux",
+      "sql-map",
+      "Burp-suite",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL"
+    ],
+    "deliverables": [
+      "Server Administration",
+      "Full Stack Develompent",
+      "Web Server Configuration and Optimization",
+      "API",
+      "CMS",
+      "Website"
+    ],
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-14",
+    "link": "https://www.ar235pictures.com/",
+    "isUp": true
   }
 ]
