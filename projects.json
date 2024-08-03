@@ -330,5 +330,218 @@
     "endDate": "2024-06-14",
     "link": "https://www.ar235pictures.com/",
     "isUp": true
+  },
+  {
+    "id": 11,
+    "gallery": [
+      "/assets/img/Screenshot from 2024-08-02 09-45-02.png",
+      "/assets/img/Screenshot from 2024-08-02 09-45-48.png",
+      "/assets/img/WhatsApp Image 2024-08-02 at 9.36.19 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 9.38.15 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 9.41.06 AM (1).jpeg"
+    ],
+    "title": "Custom Code Customization for FastHost Hosted Website",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Enhanced a FastHost hosted website by adding custom CSS and JavaScript due to the limitations of the FastHost page builder. Implemented complex features such as removing the cart button, adding a contact button, categorizing products, and customizing the navigation bar to meet the client's needs.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Analyzed the limitations of the FastHost page builder and identified areas requiring custom code.</li>\n    <li>Added custom CSS to style the website according to the client's requirements, including hiding unnecessary page features and manipulating the navbar.</li>\n    <li>Developed complex JavaScript solutions to categorize products dynamically.</li>\n    <li>Replaced the default cart button with a custom contact button to enhance user interaction.</li>\n    <li>Removed permanent navigation links that were not needed, streamlining the user interface.</li>\n    <li>Ensured compatibility and responsiveness across different devices and browsers.</li>\n    <li>Conducted thorough testing to ensure all customizations functioned correctly without breaking the existing site features.</li>\n    <li>Provided ongoing maintenance and support for the custom code implementations.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> FastHost Page Builder, Custom CSS, JavaScript</li>\n    <li><strong>Key Features:</strong> Custom product categorization, navigation bar customization, button replacement, page element manipulation, cross-browser compatibility</li>\n  </ul>\n</div>",
+    "technologies": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "FastHost"
+    ],
+    "deliverables": [
+      "Full Stack Develompent",
+      "Website",
+      "CMS",
+      "E-commerce",
+      "Web Design"
+    ],
+    "startDate": "2024-04-02",
+    "endDate": "2024-04-25",
+    "link": "https://www.theluxurygarden.co.uk",
+    "isUp": true
+  },
+  {
+    "id": 12,
+    "title": " Migrating and Redesigning a GoDaddy Website to WordPress for a Garage Business",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Successfully migrated a client's website from GoDaddy's builder to WordPress, redesigning it to be clean, professional, and modern. Implemented a feature where customers can click on a logo to browse brochures of products from different manufacturers, tailored specifically for a garage business.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Analyzed and planned the migration process from GoDaddy to WordPress, ensuring a smooth transition without data loss.</li>\n    <li>Designed a new, modern, and professional layout for the website, enhancing the user experience.</li>\n    <li>Developed the website using WordPress, incorporating client feedback to match their vision.</li>\n    <li>Implemented a feature allowing customers to click on manufacturer logos to browse brochures and product information.</li>\n    <li>Customized the website's look and feel using CSS and JavaScript to ensure it met the client's brand standards.</li>\n    <li>Ensured the website was responsive and compatible with various devices and browsers.</li>\n    <li>Conducted thorough testing to verify that all features, including the brochure browsing functionality, worked seamlessly.</li>\n    <li>Provided training and support to the client on managing their new WordPress site.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, CSS, JavaScript, GoDaddy</li>\n    <li><strong>Key Features:</strong> Website migration, modern redesign, clickable logos for brochure browsing, responsive design, cross-browser compatibility</li>\n  </ul>\n</div>\n",
+    "startDate": "2024-03-15",
+    "endDate": "2024-03-14",
+    "technologies": [
+      "PHP",
+      "Wordpress",
+      "Apache",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MySQL"
+    ],
+    "deliverables": [
+      "Full Stack Develompent",
+      "Website",
+      "Web Design",
+      "Server Administration",
+      "Application Upgrades and Migration"
+    ],
+    "gallery": [
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.35 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.36 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.36 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.36 AM (2).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.37 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.37 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-02 at 10.34.38 AM.jpeg"
+    ],
+    "link": "https://bvpdoors.com/",
+    "isUp": true
+  },
+  {
+    "id": 13,
+    "gallery": [
+      "/assets/img/Screenshot from 2024-08-03 08-31-27.png",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.12.31 AM.jpeg"
+    ],
+    "title": "Custom Wix Coding, Adding Document Download Feature to Wix Product Pages",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Implemented a custom solution for a Wix website to allow clients to download files for each product, overcoming the default limitations of Wix's product table editing capabilities. Created a new table, \"Products Details,\" with a \"Doc Download\" column where the user can insert product-specific documents for download on the product page frontend.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Analyzed Wix's limitations regarding product table editing and devised a workaround using Wix code.</li>\n    <li>Created a new dataset table, \"Products Details,\" to store document links for each product.</li>\n    <li>Developed a frontend button on product pages that references the product ID and enables document downloads.</li>\n    <li>Utilized Wix's dataset widget to link the \"Doc Download\" column with the corresponding product pages.</li>\n    <li>Wrote custom Wix code to fetch product IDs on page load and display the appropriate download button for each product.</li>\n    <li>Tested the implementation to ensure the document download feature worked seamlessly across all product pages.</li>\n    <li>Provided documentation and support to the client on how to manage the new document download feature.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> Wix, Wix Code (Velo), JavaScript</li>\n    <li><strong>Key Features:</strong> Custom product table, document download functionality, dynamic product ID referencing, seamless integration with Wix's dataset widget</li>\n  </ul>\n</div>",
+    "technologies": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Wix"
+    ],
+    "deliverables": [
+      "Web Design",
+      "Full Stack Develompent",
+      "Website"
+    ],
+    "startDate": "2024-03-03",
+    "endDate": "2024-03-22",
+    "link": "",
+    "isUp": false
+  },
+  {
+    "id": 14,
+    "title": "WordPress Page Builder Plugin Development",
+    "description": "\n<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Developed a comprehensive WordPress page builder plugin using Vue.js and the GrapeJS library. The plugin features a canvas area for drag-and-drop page building, a sidebar panel with widgets and settings, an inspector panel for element customization, an element library with widgets and blocks, a template library, styling options, responsive design features, and revision history with undo/redo functionality.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li>Developed a canvas area for drag-and-drop page building within 3 days.</li>\n    <li>Created a sidebar panel with widgets and settings over a period of 5 days.</li>\n    <li>Designed an inspector panel for element customization in 7 days.</li>\n    <li>Built an element library with various widgets and blocks in 8 days.</li>\n    <li>Developed a template library containing page and section templates in 4 days.</li>\n    <li>Implemented styling options for both global and element-specific styles within 2 days.</li>\n    <li>Added responsive design features to ensure compatibility across devices in 1 day.</li>\n    <li>Integrated revision history and undo/redo functionality to enhance user experience.</li>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> WordPress, Vue.js, GrapeJS</li>\n    <li><strong>Key Features:</strong> \n      <ul>\n        <li>Canvas area for drag-and-drop page building</li>\n        <li>Sidebar panel with widgets and settings</li>\n        <li>Inspector panel for element customization</li>\n        <li>Element library with widgets and blocks</li>\n        <li>Template library with page and section templates</li>\n        <li>Styling options for global and element-specific styles</li>\n        <li>Responsive design features</li>\n        <li>Revision history and undo/redo functionality</li>\n      </ul>\n    </li>\n  </ul>\n</div>",
+    "startDate": "2024-01-03",
+    "endDate": "2024-02-04",
+    "technologies": [
+      "Grapejs",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL",
+      "PHP",
+      "Node.js",
+      "Wordpress",
+      "Apache",
+      "Vue.js"
+    ],
+    "deliverables": [
+      "Website",
+      "Plugin Development",
+      "Wordpress Plugin Development",
+      "Web Design",
+      "Full Stack Develompent",
+      "Web Server Configuration and Optimization"
+    ],
+    "gallery": [
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.13 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.13 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.14 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.14 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.14 AM (2).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.15 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 8.51.15 AM (1).jpeg"
+    ],
+    "link": "https://flexbuilderapp.webwrits.com/",
+    "isUp": true
+  },
+  {
+    "id": 15,
+    "title": " Laravel + Vuejs Wifi Captive Portal",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Developed a secure and user-friendly captive portal solution for managing WiFi access, integrating payment functionality via the M-Pesa Daraja API. Utilized Laravel for the backend and Vue.js for the frontend to deliver a seamless user experience. The solution includes a subscription feature allowing administrators to manage plans, payments, and subscriptions.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n\n  <p><strong>1. Backend Development:</strong></p>\n  <ul>\n    <li><strong>Framework Selection and Setup:</strong>\n      <ul>\n        <li>Chose Laravel for its robust features and ease of integration with various services.</li>\n        <li>Set up a scalable and secure Laravel backend to handle user authentication, session management, payments, and subscriptions.</li>\n      </ul>\n    </li>\n    <li><strong>Database Design and Management:</strong>\n      <ul>\n        <li>Designed and implemented a relational database schema to store user information, payment records, subscription details, and session data.</li>\n        <li>Ensured data integrity and security through appropriate use of migrations, seeders, and eloquent models.</li>\n      </ul>\n    </li>\n    <li><strong>API Integration:</strong>\n      <ul>\n        <li>Integrated the M-Pesa Daraja API for payment processing, including setting up necessary credentials and handling API requests/responses.</li>\n        <li>Developed secure endpoints to handle payment notifications and updates from M-Pesa.</li>\n      </ul>\n    </li>\n    <li><strong>Subscription Management:</strong>\n      <ul>\n        <li>Implemented subscription features to allow users to select and manage subscription plans.</li>\n        <li>Developed backend functionality for administrators to create, update, and delete subscription plans.</li>\n      </ul>\n    </li>\n  </ul>\n\n  <p><strong>2. Frontend Development:</strong></p>\n  <ul>\n    <li><strong>Framework Selection and Setup:</strong>\n      <ul>\n        <li>Chose Vue.js for its reactive capabilities and ease of integration with the Laravel backend.</li>\n        <li>Set up a responsive and dynamic frontend interface using Vue.js components and Vue Router.</li>\n      </ul>\n    </li>\n    <li><strong>User Interface Design:</strong>\n      <ul>\n        <li>Designed and implemented a user-friendly interface for the captive portal, including registration, login, payment, and subscription management pages.</li>\n        <li>Ensured a seamless user experience across different devices and browsers.</li>\n      </ul>\n    </li>\n    <li><strong>Payment and Subscription Workflow:</strong>\n      <ul>\n        <li>Implemented a step-by-step workflow guiding users from registration to payment and subscription management.</li>\n        <li>Integrated real-time feedback and notifications for payment and subscription status updates.</li>\n      </ul>\n    </li>\n  </ul>\n\n  <p><strong>3. Security and Compliance:</strong></p>\n  <ul>\n    <li><strong>Data Encryption:</strong>\n      <ul>\n        <li>Implemented secure data transmission using HTTPS and ensured sensitive data, such as passwords and payment details, were encrypted.</li>\n        <li>Used Laravel’s built-in security features to protect against common vulnerabilities such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).</li>\n      </ul>\n    </li>\n    <li><strong>Session Management:</strong>\n      <ul>\n        <li>Developed secure session management to track user access and ensure only authenticated users can access the network.</li>\n        <li>Implemented session timeouts and re-authentication mechanisms to enhance security.</li>\n      </ul>\n    </li>\n    <li><strong>Regulatory Compliance:</strong>\n      <ul>\n        <li>Ensured compliance with relevant data protection regulations and industry standards, such as PCI DSS, for handling payment information.</li>\n        <li>Maintained transparent communication with users regarding data collection and privacy policies.</li>\n      </ul>\n    </li>\n  </ul>\n\n  <p><strong>4. Testing and Deployment:</strong></p>\n  <ul>\n    <li><strong>Unit and Integration Testing:</strong>\n      <ul>\n        <li>Wrote comprehensive unit and integration tests for both backend and frontend components to ensure functionality and reliability.</li>\n        <li>Conducted extensive testing of the payment and subscription workflows to handle various scenarios and edge cases.</li>\n      </ul>\n    </li>\n    <li><strong>Deployment and Monitoring:</strong>\n      <ul>\n        <li>Deployed the application on a production server, ensuring proper configuration and optimization for performance.</li>\n        <li>Set up monitoring and logging to track system performance and detect any issues promptly.</li>\n      </ul>\n    </li>\n  </ul>\n\n  <p><strong>5. Maintenance and Support:</strong></p>\n  <ul>\n    <li><strong>Bug Fixes and Updates:</strong>\n      <ul>\n        <li>Provided ongoing maintenance and support to address any bugs or issues reported by users.</li>\n        <li>Implemented updates and new features based on user feedback and evolving requirements.</li>\n      </ul>\n    </li>\n    <li><strong>Documentation:</strong>\n      <ul>\n        <li>Created comprehensive documentation for the codebase, API integration, and user guides.</li>\n        <li>Ensured that documentation was kept up-to-date with any changes or new features.</li>\n      </ul>\n    </li>\n  </ul>\n\n  <p><strong>Skills and Tools Used:</strong></p>\n  <ul>\n    <li>Laravel, Vue.js, MySQL</li>\n    <li>HTML, CSS, JavaScript</li>\n    <li>M-Pesa Daraja API</li>\n    <li>Git for version control</li>\n    <li>RESTful API development</li>\n    <li>Security best practices and compliance standards</li>\n  </ul>\n</div>\n",
+    "startDate": "2024-01-10",
+    "endDate": "2024-01-30",
+    "technologies": [
+      "PHP",
+      "Vue.js",
+      "Apache",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Laravel"
+    ],
+    "deliverables": [
+      "Full Stack Develompent",
+      "Mobile App",
+      "Website",
+      "Web Design",
+      "API Integration",
+      "Single Page Application",
+      "Progressive Web App",
+      "E-commerce",
+      "API",
+      "CMS",
+      "Web Server Configuration and Optimization",
+      "Server Security"
+    ],
+    "gallery": [
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.18.58 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.18.59 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.18.59 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.18.59 AM (2).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.18.59 AM (3).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.00 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.00 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.00 AM (2).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.00 AM (3).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.00 AM (3).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.01 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.19.01 AM (1).jpeg"
+    ],
+    "link": "",
+    "isUp": false
+  },
+  {
+    "id": 16,
+    "title": "MS Access to Web Application Conversion with Laravel and Vue.js",
+    "description": "<div class=\"container mt-5\">\n  <p><strong>Description:</strong></p>\n  <p>Converted an MS Access database into a web application using Laravel and Vue.js. Migrated the data to a MySQL database and developed a comprehensive Monitoring and Evaluation Management Information System (KeLCoP) with several functional modules for activity planning, progress monitoring, and administrative tasks.</p>\n\n  <p><strong>Responsibilities:</strong></p>\n  <ul>\n    <li><strong>Database Migration:</strong></li>\n    <ul>\n      <li>Migrated MS Access data to a MySQL database, ensuring data integrity and consistency.</li>\n      <li>Designed and implemented a relational database schema to support the web application's functionality.</li>\n    </ul>\n    <li><strong>Application Development:</strong></li>\n    <ul>\n      <li>Developed a web application using Laravel for backend and Vue.js for frontend.</li>\n      <li>Created and integrated modules for:\n        <ul>\n          <li>Activity Planning and Budgeting</li>\n          <li>Progress Monitoring and Reporting</li>\n          <li>Out of Station and Back to Office</li>\n          <li>Administrative Functions</li>\n        </ul>\n      </li>\n    </ul>\n    <li><strong>Module Implementation:</strong></li>\n    <ul>\n      <li>Implemented features for activity planning, financing summaries, and budgeting.</li>\n      <li>Developed progress monitoring tools for reporting and data entry.</li>\n      <li>Created functionalities for managing out-of-station requests and administrative tasks.</li>\n    </ul>\n    <li><strong>User Interface and Experience:</strong></li>\n    <ul>\n      <li>Designed and styled the user interface to ensure a seamless and user-friendly experience.</li>\n      <li>Implemented responsive design to support various devices and screen sizes.</li>\n    </ul>\n    <li><strong>Testing and Deployment:</strong></li>\n    <ul>\n      <li>Conducted thorough testing to ensure all features and functionalities worked as intended.</li>\n      <li>Deployed the application on a production server, optimizing performance and security.</li>\n    </ul>\n  </ul>\n\n  <p><strong>Technical Details:</strong></p>\n  <ul>\n    <li><strong>Technologies Used:</strong> Laravel, Vue.js, MySQL</li>\n    <li><strong>Key Features:</strong> Comprehensive module integration, responsive design, data migration from MS Access to MySQL, user-friendly interface</li>\n  </ul>\n</div>\n",
+    "startDate": "2023-08-03",
+    "endDate": "2023-09-30",
+    "technologies": [
+      "PHP",
+      "Vue.js",
+      "Apache",
+      "Composer",
+      "Node.js",
+      "Laravel",
+      "MySQL",
+      "JavaScript",
+      "MS ACCESS DATABASE",
+      "HTML",
+      "CSS"
+    ],
+    "deliverables": [
+      "Server Administration",
+      "Full Stack Develompent",
+      "Web Server Configuration and Optimization",
+      "Application Upgrades and Migration",
+      "Server Security",
+      "Website",
+      "CMS",
+      "Single Page Application",
+      "Progressive Web App",
+      "Web Design"
+    ],
+    "gallery": [
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.53.10 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.53.10 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.53.11 AM.jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.53.11 AM (1).jpeg",
+      "/assets/img/WhatsApp Image 2024-08-03 at 10.53.12 AM.jpeg"
+    ],
+    "link": "https://kelcopmis.kelcop.or.ke/",
+    "isUp": true
   }
 ]
